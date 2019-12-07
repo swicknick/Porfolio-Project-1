@@ -4,7 +4,20 @@
     opacity: 0.8;
     padding-top: 20%;
     padding-bottom: 20%;
+    font-family: 'Bebas Neue', cursive;
     
+  }
+
+  .h1, h2, h3, p {
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  .container {
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  .btn {
+    font-family: 'Bebas Neue', cursive;
   }
 
 .site-footer {
