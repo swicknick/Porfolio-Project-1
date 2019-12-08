@@ -1,3 +1,9 @@
+div {
+    border: 1px solid red;
+}
+.row {
+    border: 1px solid cyan;
+}
 .jumbotron {
     background: url('img/jumbo.jpg') no-repeat center center;
     background-size: cover;
@@ -8,17 +14,21 @@
     
   }
 
-  .h1, h2, h3, p {
+.h1, h2, h3, p {
     font-family: 'Bebas Neue', cursive;
-  }
+}
 
-  .container {
+.container {
     font-family: 'Bebas Neue', cursive;
-  }
+}
 
-  .btn {
+.btn {
     font-family: 'Bebas Neue', cursive;
-  }
+}
+
+ul {
+  list-style: none;
+}
 
 .site-footer {
     background-color: #212529;
