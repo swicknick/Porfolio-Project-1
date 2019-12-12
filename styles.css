@@ -27,7 +27,19 @@
 
 ul {
   list-style: none;
+  padding: 0 !important;
+
 }
+
+a {
+    color: #FFF;
+    text-decoration: none !important;
+  }
+  a:hover {
+     color: #7C8DA0
+  }
+
+
 .accordion {
     max-width: 641px;
     margin: 30px auto;
@@ -37,7 +49,6 @@ ul {
 .site-footer {
     background-color: #212529;
     color: white;
-    
 }
 
 .btn-social-icon {
