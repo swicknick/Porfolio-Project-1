@@ -15,7 +15,7 @@
 }
 
 #jumbotronAbout {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('img/aboutBackground.jpg') no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.726)), url('img/aboutBackground.jpg') no-repeat center center;
     background-size: cover;
     opacity: 0.8;
     padding-top: 10%;
